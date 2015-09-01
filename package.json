@@ -1,0 +1,16 @@
+{
+  "name": "mars",
+  "version": "0.0.1",
+  "description": "zero 1.0.0 base playground",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sskyy",
+  "license": "ISC",
+  "dependencies": {
+    "object-assign": "^3.0.0",
+    "react": "^0.13.3",
+    "roof-bus": "0.0.8"
+  }
+}
